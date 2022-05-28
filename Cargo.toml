@@ -1,6 +1,6 @@
 [package]
 name = "orb-network-manager"
-version = "0.11.2"
+version = "0.11.3"
 authors = ["Zahari Petkov <zahari@resin.io>", "Aaron Brodersen <aaron@resin.io>"]
 description = "Rust NetworkManager bindings"
 homepage = "https://github.com/series-public/orb-network-manager"
